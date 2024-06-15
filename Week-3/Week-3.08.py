@@ -1,3 +1,4 @@
+
 Pythagorean triple
 
 Three numbers form a Pythagorean triple if the sum of squares of two numbers is equal to the square of the third.
