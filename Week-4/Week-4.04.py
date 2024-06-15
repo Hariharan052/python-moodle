@@ -1,3 +1,4 @@
+
 Next Perfect Square
 
 Given a number N, find the next perfect square greater than N.
