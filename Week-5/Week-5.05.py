@@ -1,3 +1,4 @@
+
 Element Insertion
 
 Consider a program to insert an element / item in the sorted array. Complete the logic by filling up required code in editable section. Consider an array of size 10. The eleventh item is the data is to be inserted. 
