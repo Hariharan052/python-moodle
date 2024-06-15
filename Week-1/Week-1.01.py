@@ -1,4 +1,5 @@
 
+
                       Converting Input Strings
 Write a program to convert strings to an integer and float and display its type.
 Sample Output:
